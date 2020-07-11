@@ -55,7 +55,7 @@ const listData = [
     "likeCount": 110
   },
 ]
-const a = 1;
+
 export default function App() {
   return (
     <View style={styles.container}>
